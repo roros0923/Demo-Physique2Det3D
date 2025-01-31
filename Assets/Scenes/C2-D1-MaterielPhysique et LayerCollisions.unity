@@ -257,7 +257,7 @@ Rigidbody2D:
   m_LinearDrag: 0
   m_AngularDrag: 0.05
   m_GravityScale: 1
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 6200000, guid: 80621e71904ad17479e1a81810bc6d10, type: 2}
   m_IncludeLayers:
     serializedVersion: 2
     m_Bits: 0
@@ -643,7 +643,7 @@ Rigidbody2D:
   m_LinearDrag: 2
   m_AngularDrag: 1
   m_GravityScale: 1
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 6200000, guid: c170ccd6c579f43488f8c7c3019acd59, type: 2}
   m_IncludeLayers:
     serializedVersion: 2
     m_Bits: 0
@@ -824,7 +824,7 @@ Rigidbody2D:
   m_LinearDrag: 0
   m_AngularDrag: 0.05
   m_GravityScale: 1
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 6200000, guid: d0cef7bf1d453524bae68e6369f4ca23, type: 2}
   m_IncludeLayers:
     serializedVersion: 2
     m_Bits: 0
